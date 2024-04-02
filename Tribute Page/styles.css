@@ -1,1 +1,33 @@
+body {
+    background-color: #bdbab3;
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #d6d5d2;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+    text-align: center;
+    margin-top: 0;
+}
+
+#img-div {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#img-caption {
+    font-style: italic
+}
 
